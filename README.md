@@ -15,4 +15,4 @@
 后续我们会定期推送资源站列表与风险警示内容，帮助用户避开不实资源，节省检索成本。
 希望本篇介绍能为您提供实用信息，为您的观影体验保驾护航。
 
-<span style="display:none;">[Canonical link](  ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/kd20250709/235782 ）</span>
